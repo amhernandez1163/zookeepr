@@ -108,6 +108,26 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "Michelle",
+      "species": "Kangaroo ",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "anxious",
+        "loving"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Piper",
+      "species": "Penguin",
+      "diet": "piscivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "12"
     }
   ]
 }
